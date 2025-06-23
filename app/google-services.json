@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "your firebase project number",
+    "firebase_url": "your firebase url",
+    "project_id": "your firebase project id",
+    "storage_bucket": "your firebase storage bucket"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "your firebase app id",
+        "android_client_info": {
+          "package_name": "com.example.a5mins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "your firebase api key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

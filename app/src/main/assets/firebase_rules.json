@@ -1,0 +1,30 @@
+{
+  "rules": {
+    "users": {
+      ".read": true,
+      ".write": true,
+      "$uid": {
+        ".read": true,
+        ".write": true,
+        "status": {
+          ".validate": "newData.isString() && (newData.val() === '休息中' || newData.val() === '接單中' || newData.val() === '載客中' || newData.val() === '已下綫')"
+        }
+      }
+    },
+    "cases": {
+      ".read": true,
+      ".write": true,
+      "$caseId": {
+        ".read": true,
+        ".write": true,
+        ".validate": "newData.hasChildren(['id', 'location', 'note', 'time', 'status', 'createdAt', 'driver'])",
+        "status": {
+          ".validate": "newData.isString() && (newData.val() === '未接單' || newData.val() === '進行中' || newData.val() === '已完成')"
+        },
+        "driver": {
+          ".validate": "newData.isString()"
+        }
+      }
+    }
+  }
+} 
