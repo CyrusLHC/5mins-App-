@@ -55,20 +55,20 @@
 ---
 
 ## Preview -Admin-
-![image](Preview/Preview1.png)
-![image](Preview/Preview2.png)
-![image](Preview/Preview3.png)
-![image](Preview/Preview4.png)
-![image](Preview/Preview5.png)
-![image](Preview/Preview6.png)
-![image](Preview/Preview7.png)
-![image](Preview/Preview8.png)
-![image](Preview/Preview9.png)
-![image](Preview/Preview10.png)
+<img src="Preview/Preview1.png" width="300"/>
+<img src="Preview/Preview2.png" width="300"/>
+<img src="Preview/Preview3.png" width="300"/>
+<img src="Preview/Preview4.png" width="300"/>
+<img src="Preview/Preview5.png" width="300"/>
+<img src="Preview/Preview6.png" width="300"/>
+<img src="Preview/Preview7.png" width="300"/>
+<img src="Preview/Preview8.png" width="300"/>
+<img src="Preview/Preview9.png" width="300"/>
+<img src="Preview/Preview10.png" width="300"/>
 
 ## Preview -User-
-![image](Preview/Preview11.png)
-![image](Preview/Preview12.png)
-![image](Preview/Preview13.png)
-![image](Preview/Preview14.png)
-![image](Preview/Preview15.png)
+<img src="Preview/Preview11.png" width="300"/>
+<img src="Preview/Preview12.png" width="300"/>
+<img src="Preview/Preview13.png" width="300"/>
+<img src="Preview/Preview14.png" width="300"/>
+<img src="Preview/Preview15.png" width="300"/>
