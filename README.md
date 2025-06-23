@@ -55,10 +55,4 @@
 ---
 
 ## Preview
-
-> We recommend adding screenshots of the following (adjust as needed):
-- Home (driver status and order list)
-- New Order (location autocomplete, time picker)
-- Profile (user info, logout)
-- Order Details (navigation, complete order)
-- Admin Account Management
+Preview1.png
