@@ -54,5 +54,21 @@
 
 ---
 
-## Preview
-Preview1.png
+## Preview -Admin-
+![image](Preview/Preview1.png)
+![image](Preview/Preview2.png)
+![image](Preview/Preview3.png)
+![image](Preview/Preview4.png)
+![image](Preview/Preview5.png)
+![image](Preview/Preview6.png)
+![image](Preview/Preview7.png)
+![image](Preview/Preview8.png)
+![image](Preview/Preview9.png)
+![image](Preview/Preview10.png)
+
+## Preview -User-
+![image](Preview/Preview11.png)
+![image](Preview/Preview12.png)
+![image](Preview/Preview13.png)
+![image](Preview/Preview14.png)
+![image](Preview/Preview15.png)
